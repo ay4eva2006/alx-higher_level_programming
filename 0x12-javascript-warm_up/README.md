@@ -1,6 +1,6 @@
-#General
+General
 
-###This project teaches hands-on on javascript fundamentals.
+This project teaches hands-on on javascript fundamentals.
 Why JavaScript programming is amazing
 How to run a JavaScript script
 How to create variables and constants

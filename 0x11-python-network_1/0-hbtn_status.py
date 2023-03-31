@@ -1,4 +1,8 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
+"""the  script that
+- fetches https://alx-intranet.hbtn.io/status.
+- uses urlib package
+"""
 import urllib.request
 
 def main():
